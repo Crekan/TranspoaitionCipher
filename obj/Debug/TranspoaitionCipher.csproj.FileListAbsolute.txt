@@ -1,0 +1,10 @@
+D:\C#\GitHubC#\TranspoaitionCipher\bin\Debug\TranspoaitionCipher.exe.config
+D:\C#\GitHubC#\TranspoaitionCipher\bin\Debug\TranspoaitionCipher.exe
+D:\C#\GitHubC#\TranspoaitionCipher\bin\Debug\TranspoaitionCipher.pdb
+D:\C#\GitHubC#\TranspoaitionCipher\obj\Debug\TranspoaitionCipher.csprojAssemblyReference.cache
+D:\C#\GitHubC#\TranspoaitionCipher\obj\Debug\TranspoaitionCipher.Шифр.resources
+D:\C#\GitHubC#\TranspoaitionCipher\obj\Debug\TranspoaitionCipher.Properties.Resources.resources
+D:\C#\GitHubC#\TranspoaitionCipher\obj\Debug\TranspoaitionCipher.csproj.GenerateResource.cache
+D:\C#\GitHubC#\TranspoaitionCipher\obj\Debug\TranspoaitionCipher.csproj.CoreCompileInputs.cache
+D:\C#\GitHubC#\TranspoaitionCipher\obj\Debug\TranspoaitionCipher.exe
+D:\C#\GitHubC#\TranspoaitionCipher\obj\Debug\TranspoaitionCipher.pdb
